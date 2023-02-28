@@ -5,7 +5,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/realpython/reader",
-    author="Real Python",
+    author="Csete Andor",
     author_email="info@realpython.com",
     license="MIT",
     classifiers=[
