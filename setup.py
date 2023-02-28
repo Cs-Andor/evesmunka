@@ -4,7 +4,7 @@ setup(
     description="Évesmunka program 2022-23. Készítette Csete Andor",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/Cs-Andor/evesmunka",
     author="Csete Andor",
     author_email="info@realpython.com",
     license="MIT",
